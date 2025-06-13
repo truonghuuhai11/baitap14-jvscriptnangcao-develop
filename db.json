@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Harry Potter"
+    },
+    {
+      "id": 2,
+      "title": "The Great Gatsby"
+    },
+    {
+      "id": 3,
+      "title": "To Kill a Mockingbird"
+    }
+  ]
+}
